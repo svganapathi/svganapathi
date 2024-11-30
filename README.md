@@ -1,8 +1,13 @@
 ## Welcome to my Profile
 
-`
+**`
 👋 Hi, I’m GANAPATHI S
-`
+`**
+
+
+[![website](https://img.shields.io/badge/visit-FF0000?style=for-the-badge&logo=website&logoColor=white)](https://ganapathi.vercel.app/)
+
+![screenshot](https://user-images.githubusercontent.com/64949957/136549418-cb4f98cc-7620-4f82-9298-150bb32d64ed.png)
 
 <h2>📬 Contact</h2>
 
