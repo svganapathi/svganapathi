@@ -7,7 +7,7 @@
 
 [![website](https://img.shields.io/badge/visit-FF0000?style=for-the-badge&logo=website&logoColor=white)](https://ganapathi.vercel.app/)
 
-![screenshot](https://github.com/svganapathi/svganapathi/blob/main/screenshot.png)
+![screenshot](https://github.com/svganapathi/svganapathi/blob/main/home.png)
 
 <h2>📬 Contact</h2>
 
